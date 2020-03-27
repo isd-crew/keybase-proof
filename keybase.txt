@@ -1,0 +1,79 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am isd-crew on github.
+  * I am isdcrew (https://keybase.io/isdcrew) on keybase.
+  * I have a public key whose fingerprint is 4E3A EAF8 49F6 F7E1 AC9C  D5C2 2783 D2AA CC2F D539
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e2148bb43a8a7a9ee231b20d4698410703f08d5d87983d0181c5634a5cb71f0d0a",
+      "fingerprint": "4e3aeaf849f6f7e1ac9cd5c22783d2aacc2fd539",
+      "host": "keybase.io",
+      "key_id": "2783d2aacc2fd539",
+      "kid": "0101e2148bb43a8a7a9ee231b20d4698410703f08d5d87983d0181c5634a5cb71f0d0a",
+      "uid": "49df340624dcb90cba3614f8df786319",
+      "username": "isdcrew"
+    },
+    "service": {
+      "name": "github",
+      "username": "isd-crew"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1585274268,
+  "expire_in": 157680000,
+  "prev": "73cafa63b95e8e7b1fdbd2ffd0dfd0447694bf1ab34b3b06ffb3a22aa8b2329d",
+  "seqno": 4,
+  "tag": "signature"
+}
+```
+
+with the key [4E3A EAF8 49F6 F7E1 AC9C  D5C2 2783 D2AA CC2F D539](https://keybase.io/isdcrew), yielding the signature:
+
+```
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIZAnicrZJbSFRBHMZXTS0vqRi9RJTnQYpUzmXObUHUTBFLE7KbmdvMmRk9qbvr
+2V110Y1eIrPMMiQKsYQokC4oFZJE2+0lSyiRCsp6EPQpzBTRLJsVfarHBoZh/vP9
+vvnmz7yIj7DFhI2mduzamfi4OGzo6XmfrSJwtKuJQy7s5+xNXDVZXkgNJh6vo9rE
+nJ3jBV4gogA0hIAENahCnRBREpDIY6DoGhB4lZcor2EZa6quSZgXNMGQFQlA2UCq
+QHnMQy6No6azklhuy3R6mS0gEiSQakCnClWJAA3dwLIhiipzECE0DJFiWdIZWOXy
+hAgWDkEPyTBdrMY2juV4/9D/59y+ZTugYyoBXhEBNpDOGwhKigCohqmqKZIQutfn
+IZYT1hKmNj3YsEgDF0jjWLHeNEioryuHlaa3yof+AtJXCa/fHSo1EORYgR3IdGLW
+PsbUE8tjupycXWBKw2uGaEHWZFEFoqKlcaTRbVrEYYYUsqpoPBtpnNsi9cxSlQxI
+oSIhXSYaUZFAMcIipZjHbAKgKjpAVIBIAkhCvEIpkqDIuqshURJ1zIWeU+d0cXbA
+YsJKZukxK53Q67MIF3gWLF9jC4uxRUWGh76VLWZd4upna70dvZQ/Otic9akgucKx
+1X05ui3q1d6z67sykk+O564dgZkds6N91J8akXTrTee7hVJf4ZaIB9N6X0fkzZFt
+Zdb3jeXtAyPP3x/eMNG451L61chAxaH83g+/fuQ1Lm4v7E6I6M6ZSMw67ig6NRBe
+MK9ef9TT2MPFTeFzb/cFfhefmV0fPD3WGZuZO/H1YMrMw9L5uZa+tvvZBzaN5wzb
+erOP3Sm50bzDv1CT/y1Q3HSvt38uu8zVogd7Xs/W6ksL0Ln783B40IwKuI6IMdn2
+pNz6l/14v+0Jid2cp4/dnbx4IrI1vj0xMFQ384V8zI3/2TGYMGlcQVPRrdMVJeVx
+KYtm0YVrfwCSBDoM
+=mgoJ
+-----END PGP MESSAGE-----
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/isdcrew
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id isdcrew
+```
