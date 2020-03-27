@@ -1,14 +1,15 @@
-### Keybase proof
+==================================================================
+https://keybase.io/isdcrew
+--------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am isd-crew on github.
+  * I am an admin of http://keybase.isd.dance
   * I am isdcrew (https://keybase.io/isdcrew) on keybase.
-  * I have a public key whose fingerprint is 4E3A EAF8 49F6 F7E1 AC9C  D5C2 2783 D2AA CC2F D539
+  * I have a public key with fingerprint 4E3A EAF8 49F6 F7E1 AC9C  D5C2 2783 D2AA CC2F D539
 
-To claim this, I am signing this object:
+To do so, I am signing this object:
 
-```json
 {
   "body": {
     "key": {
@@ -21,59 +22,47 @@ To claim this, I am signing this object:
       "username": "isdcrew"
     },
     "service": {
-      "name": "github",
-      "username": "isd-crew"
+      "hostname": "keybase.isd.dance",
+      "protocol": "http:"
     },
     "type": "web_service_binding",
     "version": 1
   },
-  "ctime": 1585274268,
+  "ctime": 1585276389,
   "expire_in": 157680000,
-  "prev": "73cafa63b95e8e7b1fdbd2ffd0dfd0447694bf1ab34b3b06ffb3a22aa8b2329d",
-  "seqno": 4,
+  "prev": "3ac9e2d0c29ebd2835432984f9b0253a30460b8065004535d2161608f8b4a9cc",
+  "seqno": 7,
   "tag": "signature"
 }
-```
 
-with the key [4E3A EAF8 49F6 F7E1 AC9C  D5C2 2783 D2AA CC2F D539](https://keybase.io/isdcrew), yielding the signature:
+which yields the signature:
 
-```
 -----BEGIN PGP MESSAGE-----
 Version: Keybase OpenPGP v2.1.13
 Comment: https://keybase.io/crypto
 
-yMIZAnicrZJbSFRBHMZXTS0vqRi9RJTnQYpUzmXObUHUTBFLE7KbmdvMmRk9qbvr
-2V110Y1eIrPMMiQKsYQokC4oFZJE2+0lSyiRCsp6EPQpzBTRLJsVfarHBoZh/vP9
-vvnmz7yIj7DFhI2mduzamfi4OGzo6XmfrSJwtKuJQy7s5+xNXDVZXkgNJh6vo9rE
-nJ3jBV4gogA0hIAENahCnRBREpDIY6DoGhB4lZcor2EZa6quSZgXNMGQFQlA2UCq
-QHnMQy6No6azklhuy3R6mS0gEiSQakCnClWJAA3dwLIhiipzECE0DJFiWdIZWOXy
-hAgWDkEPyTBdrMY2juV4/9D/59y+ZTugYyoBXhEBNpDOGwhKigCohqmqKZIQutfn
-IZYT1hKmNj3YsEgDF0jjWLHeNEioryuHlaa3yof+AtJXCa/fHSo1EORYgR3IdGLW
-PsbUE8tjupycXWBKw2uGaEHWZFEFoqKlcaTRbVrEYYYUsqpoPBtpnNsi9cxSlQxI
-oSIhXSYaUZFAMcIipZjHbAKgKjpAVIBIAkhCvEIpkqDIuqshURJ1zIWeU+d0cXbA
-YsJKZukxK53Q67MIF3gWLF9jC4uxRUWGh76VLWZd4upna70dvZQ/Otic9akgucKx
-1X05ui3q1d6z67sykk+O564dgZkds6N91J8akXTrTee7hVJf4ZaIB9N6X0fkzZFt
-Zdb3jeXtAyPP3x/eMNG451L61chAxaH83g+/fuQ1Lm4v7E6I6M6ZSMw67ig6NRBe
-MK9ef9TT2MPFTeFzb/cFfhefmV0fPD3WGZuZO/H1YMrMw9L5uZa+tvvZBzaN5wzb
-erOP3Sm50bzDv1CT/y1Q3HSvt38uu8zVogd7Xs/W6ksL0Ln783B40IwKuI6IMdn2
-pNz6l/14v+0Jid2cp4/dnbx4IrI1vj0xMFQ384V8zI3/2TGYMGlcQVPRrdMVJeVx
-KYtm0YVrfwCSBDoM
-=mgoJ
+yMInAnicrVJbSFRBGF6zm2uRUXZBDDmGmJrNnDmXOQtFhFBS+SBZoeE258wc93g5
+u+3ZXRVbgkS7vEhCUVlBDwZRQUIFXsrcyizRiJB6qMwiRKIHiSAwrDliPfXYvAzz
+/9/3/d//MY+XJ3u8SWM57UU70u6XJA0PXIx6KuPsc5OgB2mj4GsSatjcxWopcyL+
+GosKPgFAAJkIJazrEiKYqERjTERQFwGVFA1LEKgAmQBTmWJVw4gCiKEhK0gisqGr
+0AQUEKFAMC27ioVDYcuOcFmJIcKIiSXNVEyVQWJoBpUNUVS5gkiIYYgmlZHGiYGg
+4zK4OZ04rNAK8hp/+Ofs/QP/n31H5+QkjZpIAoooUUPXgKETpEDJxNRUsYKgOzfq
+sLBN6hhHWw41wqxeiBcIvBizDObm6i4yD/i7jEMLKbF5v0AIhYORoBGs5e1AJBLy
+uexIY8iF1zPdPy/k1y2b8ig5IcbCjhW0BR/kSCNiucpQxrKoKghrBQJrCFlh5rdc
+hKwqGPDjjmExLol44kykwBA1plMRI1lCIo/F1HQgyoggIClAx0CRAZBkJFMRKlAB
+2MS6RDTDENzVjthBwadym6SKSzpWlU0i0TAT4omHhxZ6kryexYsWuF/M401J+/Px
+BtuWzMorv1/p2Z5cX5q7FWO9e2qVmsjenLoxPaNT63r0onfo9s7uiz8Tn0rt04O3
+1i2q0Irfxvvrvp2duV7eNX3v3MZlv7oO3JjMDYDMV6tTQenlfRdqVlTdvJvrHdp9
+qjdv9uqXZljS8mzXydinD2dwtHW4f2rM/NH35Nie8eeTjjSb1bNbfD1c3mFPVB9G
+hWMD8GNb+rKUTZkP9rbkz5RNJ0509L9cemIUZIM77xvlksrjHxtG1k+8qR8/2jqi
+eis63/kn8or2xNNrupSWtvKbiZxL1dkHe+8nm/b18+1l/gf2NgGv6dnQmtXR511Q
+/PRr82jA52jb82f2Z3g6B8q3rL32G+m7PI8=
+=Z3Fd
 -----END PGP MESSAGE-----
 
-```
+And finally, I am proving ownership of this host by posting or
+appending to this document.
 
-And finally, I am proving ownership of the github account by posting this as a gist.
+View my publicly-auditable identity here: https://keybase.io/isdcrew
 
-### My publicly-auditable identity:
-
-https://keybase.io/isdcrew
-
-### From the command line:
-
-Consider the [keybase command line program](https://keybase.io/download).
-
-```bash
-# look me up
-keybase id isdcrew
-```
+==================================================================
